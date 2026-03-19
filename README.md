@@ -1,18 +1,54 @@
-💫 About Me
+<h1 align="center">Hi 👋, I'm Purab</h1>
+<p align="center">Fullstack Developer • AI Explorer • Builder</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
 
-🔭 I’m a self-driven developer passionate about building clean, functional, and visually engaging web experiences.
-🤝 Open to collaborating on exciting projects across web development, AI integration, or ethical hacking.
-🧠 Actively learning full-stack development with a strong focus on frontend animation, backend architecture, and performance optimization.
-🌱 Exploring React, modern UI/UX design, and turning ideas into fully working apps.
-💬 Comfortable with Python scripting, cybersecurity tools, and automating workflows.
-⚡ Fun fact: I started out building hacking utilities — now I’m just as obsessed with pixel-perfect interfaces.
+---
 
+## 🚀 About Me
+I’m a 3rd year B.Tech student at KIIT University focused on building real-world products using fullstack development and AI.
 
+I enjoy turning ideas into working prototypes, experimenting with APIs, and solving problems through practical solutions rather than just theory.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purabb.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purab-awasthi004) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@purabawasthi004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purabawasthi004@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+## ⚡ What I Do
+- Build fullstack web apps using React, Node.js, and modern UI tools  
+- Work with Python for automation, cybersecurity tools, and scripting  
+- Experiment with AI and build utility-focused tools  
 
+---
+
+## 🛠 Tech Stack
+**Frontend:** React (Vite), Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express  
+**Languages:** JavaScript, Python  
+**Tools & DB:** Firebase, Supabase, Git  
+
+---
+
+## 🔥 Projects
+- **Internsetu (SIH)**  
+  Fullstack system built in a hackathon environment with end-to-end integration  
+
+- **Sankat.ai**  
+  Emergency-focused AI concept for real-world assistance  
+
+- **Nova Sync**  
+  AI-based assistant with automation workflows  
+
+- **Cybersecurity Tools**  
+  Password cracker, network scanner, subdomain enumeration, FTP brute-force  
+
+---
+
+## 🚀 Currently Building
+- AI-powered tools and real-world utility apps  
+- Product-focused projects with fast execution  
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/purab-awasthi
