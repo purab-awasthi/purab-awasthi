@@ -22,10 +22,10 @@ I enjoy turning ideas into working prototypes, experimenting with APIs, and solv
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React (Vite), Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express  
-**Languages:** JavaScript, Python  
-**Tools & DB:** Firebase, Supabase, Git  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,python,firebase,supabase,git" />
+</p>
 
 ---
 
