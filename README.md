@@ -24,7 +24,7 @@ I enjoy turning ideas into working prototypes, experimenting with APIs, and solv
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,python,firebase,supabase,git" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,nodejs,express,python,html,css,mongodb,firebase,supabase,git,github,vscode" />
 </p>
 
 ---
