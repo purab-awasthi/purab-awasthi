@@ -2,7 +2,7 @@
 <p align="center">Fullstack Developer • AI Explorer • Builder</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdpMzJvcWdqbGFtZjlndzJhNDRjc3Rhc2ZtNGhvaGR5dnZ6b3RjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400" />
 </p>
 
 ---
